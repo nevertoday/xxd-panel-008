@@ -45,11 +45,25 @@ XXD Panel 008는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **극도로 깨끗한 무광 3D:** 입자, 종이, 필름, 서리, 옛 인쇄, PBR, 강한 반사가 없는 매끈한 단색 기하입니다.
 - **작은 주석:** 가는 기하 문장 하나뿐이며 연도, 날짜, 번호, 권호, 큰 제목, 무단 영어 번역이 없습니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 008 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
+> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
 
-향후 예시는 008의 적용 범위만 보여 줍니다. 예시의 주제, 공간 장치, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 008의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 공간시 논리
 

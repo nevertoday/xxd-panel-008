@@ -47,11 +47,25 @@ XXD Panel 008 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **ثلاثي أبعاد مطفأ نقي:** هندسة ملساء صلبة بلا حبيبات أو ورق أو فيلم أو صقيع أو طباعة قديمة أو PBR أو انعكاس حاد.
 - **ملاحظة صغيرة:** جملة هندسية رفيعة واحدة، بلا سنة أو تاريخ أو رقم أو مجلد أو عنوان ضخم أو ترجمة إنجليزية صامتة.
 
-## النماذج · قريباً
+## النماذج · من X
 
-يحتفظ المستودع بمجلد [`assets/examples/`](assets/examples/) للأعمال القادمة. لن يُضاف إلا عمل مكتمل بأسلوب 008 ومؤكد من صاحب المشروع؛ ولن تُستخدم منشورات أو صور من أساليب أخرى كعناصر مؤقتة.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
+> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
 
-ستعرض النماذج القادمة قدرة 008 على التكيف فقط، ولن تصبح موضوعاتها أو أجهزتها المكانية أو ألوانها أو نصوصها أو أبعادها مراجع للتوليد أو قيماً افتراضية.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 008 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات ومنطق واحد لقصيدة مكانية
 
