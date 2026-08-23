@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 008"
+  short_description: "Create luminous pastel impossible-space artwork."
+  default_prompt: "Use $xxd-panel-008 to translate my photo into a source-bound orthographic isometric impossible space with dynamic pastels, one vivid jump point, immaculate matte 3D, and one small poetic line; ask first for modes and copy or locale preferences."
