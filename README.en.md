@@ -42,7 +42,18 @@ Height, path, connection, occlusion, isolation, and repetition carry the narrati
 
 These samples demonstrate the 008 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 008 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Translate a real photograph into a bright, quiet, intelligent pastel impossible space |
+| **Recognizable signature** | ORTHOGRAPHIC ISOMETRIC · PLATFORMS / STAIRS / DOORS · SPATIAL PARADOX · DYNAMIC PASTELS · MATTE 3D |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Poetic isometric space” easily collapses into arbitrary stairs, stock levels, and pastel architecture unrelated to the photograph.
 
@@ -54,7 +65,7 @@ lock source facts → assign identity and relation to geometry → narrate throu
 
 If an unrelated photograph could replace the source without materially changing spatial metaphor, route, height relation, anchor geometry, colour jump, or copy, the result is not 008.
 
-## The 008 visual contract
+## What makes the finished style recognizable
 
 - **Source-bound spatial metaphor:** at least three identity, pose, action, function, emotion, or relation cues enter one geometric system.
 - **Geometry has a job:** every platform, stair, doorway, arch, bridge, passage, floating structure, and impossible link maps to source facts.
