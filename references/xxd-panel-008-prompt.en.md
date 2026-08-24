@@ -1,92 +1,79 @@
-# XXD Panel 008 · Luminous Pastel Impossible-Space Core
+# XXD Panel 008 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/008-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 008. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Treat the one currently selected photograph as the sole content source. Never borrow subjects, spatial devices, palette, composition, or copy from samples, other inputs, or historical outputs.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-## 0. Immutable aesthetic motive
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-**this exact photographed subject or inseparable relation → at least three identity, silhouette, pose, action, function, emotion, or relation cues → translation into platforms, stairs, doorways, arches, bridges, passages, floating structures, or impossible connections → height, path, connection, occlusion, isolation, and repetition as narrative grammar → clean orthographic isometric view → two to four luminous dynamic pastel main colours chosen independently from the photograph's overall palette, using analogous harmony plus warm/cool contrast → exactly one higher-purity jump at a doorway, turn, figure, or decisive structure → immaculate smooth matte solid-colour 3D under soft even light and slight ambient shadow → at most one small thin geometric editorial line with emotional aftertaste**.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-The surreal metaphor must grow from the source's actual pose, direction, distance, enclosure, connection, separation, repetition, or emotional tension. Never add arbitrary stairs or apply a fixed game level. If an unrelated photograph could replace the source without materially changing the spatial metaphor, route, height relations, anchor geometry, colour jump, or copy, the result has failed.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-## 1. Lock source facts and spatial metaphor
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Privately determine:
+### Text generated from the original prompt
 
-1. The one principal subject or inseparable relation and at least three source-specific cues.
-2. A meaningful platform, stair, doorway, arch, bridge, passage, floating structure, or impossible connection for each cue, including what identity, action, function, or relation it represents.
-3. The narrative role of height, path, connection, occlusion, isolation, and repetition. Geometry without a role does not appear.
-4. The orthographic isometric camera, visual entrance, route, turn, core void, and breathing space.
-5. Two to four main colours chosen by emotional structure from cream, pale sandstone, mist pink, coral, soft violet, sky blue, lake cyan, or mint, including analogous harmony, warm/cool contrast, and same-hue value levels.
-6. The one higher-purity orange-red, magenta, blue-green, or bright-yellow jump point and its narrative reason.
-7. When copy is present, one short poetic annotation in the target language and its alignment, occlusion, or subtle interweave with geometry.
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Never invent biography, place, event, ownership, or emotion. Spatial metaphor may be poetic but must remain explainable from source facts.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-## 2. Orthographic isometric impossible space
+### User-exact text
 
-- Use a clean orthographic isometric camera with no photographic perspective distortion, wide-angle exaggeration, or tilted horizon.
-- Platforms, stairs, doorways, arches, bridges, passages, floating structures, and impossible connections form one spatial system rather than a collage of unrelated puzzles.
-- Height expresses hierarchy or distance; paths express action or memory; bridges and passages express relation; doors express transition; occlusion withholds information; isolation expresses solitude; repetition expresses rhythm or persistence.
-- Impossible geometry exists only when it serves the source and remains visually readable. Reject crowded cities, labyrinth overload, decorative towers, game UI, unrelated characters, and copied level designs.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-## 3. Dynamic luminous pastel system
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-- Use two to four bright, soft, translucent-feeling main colours per image instead of directly sampling the photograph's overall palette.
-- Use analogous colour for atmosphere, warm/cool contrast for spatial hierarchy, and same-hue value steps to separate geometric planes.
-- Permit exactly one higher-purity accent in the entire image, placed at a doorway, turn, figure, or decisive structure.
-- Emphasise large clean colour fields and clear plane separation. Reject muddy grey, yellowed filters, low value, large brown or black fields, ordinary muted palettes, rainbow stacking, and neon glow.
+### No text
 
-## 4. Immaculate matte 3D
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-- Geometry is extremely clean, smooth, matte, and solid-coloured, with precise edges and no visible surface texture.
-- Use soft even light and only slight ambient shadow. Space is shaped primarily by colour planes, height, overlap, and same-hue value change.
-- Keep the world lucid, delicate, and airy. Reject grain, noise, paper tooth, film look, frosted texture, old print, dirt, scratches, complex PBR, metallic sparkle, wet gloss, and harsh reflection.
-- Do not simulate a physical miniature photographed in a studio. Render an idealised poetic spatial world.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-## 5. Typography specific to 008
-
-Type is one small editorial annotation that leaves aftertaste, never a headline or slogan.
-
-- Automatic copy derives one short resonant sentence from visible emotion, relation, action, spatial tension, or supported story without inventing biography.
-- Default to exactly one line in the target language. Add one smaller second-language interpretation only when the user explicitly asks for bilingual output; never silently add English.
-- Automatic or editable-direction copy never introduces a year, date, number, volume label, catalogue code, or archival marker for atmosphere. Exact user wording remains verbatim even when it contains one.
-- Use thin, simple, geometric editorial type at small scale with generous spacing that respects native script construction.
-- Place it at an edge, corner, architectural void, or lower open area; it may align, lightly occlude, or subtly interweave with geometry without competing with the subject.
-- Reject giant type, bold titles, handwriting, textured lettering, glow, extrusion, and poster slogans.
-
-The photographic panel contains no typography. Text-free mode contains no letters, characters, numbers, or pseudo-text in the transformed frame.
-
-## 6. Current mode and wallpaper
-
-The caller appends the one current mode, exact dimensions, source visibility, and locked copy. Execute only those values.
-
-- Recompose route, anchor geometry, and safe breathing space for every wallpaper aspect. Keep system-UI zones low-information and render no UI or device frame.
-- A linked wallpaper always receives the original source plus the same approved anchor: the source locks identity and content; the anchor locks only spatial grammar, orthographic isometric camera, paradox logic, pastel family, colour-jump strategy, matte material, lighting, and typography. Never crop mechanically or chain derivatives.
-
-## 7. Pre-generation check
-
-1. At least three source-specific cues remain recognisable in one coherent geometric world.
-2. Every platform, stair, doorway, arch, bridge, passage, floating structure, and impossible connection has a source basis and narrative role.
-3. Camera, route, height, connection, occlusion, isolation, and repetition are clear, quiet, and readable, without stock level design or puzzle clutter.
-4. Two to four luminous pastel main colours create analogous harmony and warm/cool contrast, with exactly one higher-purity jump point.
-5. Geometry is immaculate, smooth, matte, and solid-coloured under soft light and slight ambient shadow, with no grain, paper, film, frost, old print, PBR, or harsh reflection.
-6. Copy is one small target-language geometric line; bilingual type appears only when requested; automatic copy has no year, date, number, or volume label, while exact user wording remains verbatim.
-7. Mode, size, source visibility, wallpaper safe areas, and copy obey the appended values.
-8. There is no repeated photo panel, overview collage, logo, watermark, UI, mockup, or unrelated decoration.
+```text
+complete verbatim 008-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
