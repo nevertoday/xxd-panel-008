@@ -22,6 +22,26 @@ XXD Panel 008 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 高低差、路径、连接、遮挡、孤立与重复承担叙事；正交等距视角让空间清楚而诗意。每张作品使用 2–4 个明亮粉彩主色和唯一一处高纯度跳色，再以极净、平滑、哑光的纯色 3D 与一句小型几何注释留下余韵。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
+> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 008 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 008
 
 普通“纪念碑式空间”很容易退化成任意台阶、现成关卡和一套与照片无关的粉彩建筑。
@@ -44,26 +64,6 @@ XXD Panel 008 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **唯一跳色：** 全画面只有一处更高纯度的橙红、玫红、蓝绿或明黄，落在决定性位置。
 - **极净哑光 3D：** 纯色平滑几何、柔和均匀光线和轻微环境阴影；没有颗粒、纸纹、胶片、磨砂、旧印刷、PBR 或强反光。
 - **小型空间注释：** 只有一句纤细几何文案；不出现年份、日期、编号、卷号、大标题或静默英语翻译。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
-> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 008 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

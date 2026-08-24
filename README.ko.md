@@ -22,6 +22,26 @@ XXD Panel 008는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 높이 차, 경로, 연결, 가림, 고립과 반복이 서사를 맡고, 정사영 아이소메트릭이 공간을 명료하고 시적으로 만듭니다. 2–4개의 밝은 파스텔 주색과 단 하나의 고순도 점프색을 매우 깨끗하고 매끈한 무광 3D로 완성합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
+> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 008의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 008이 필요한가요
 
 일반적인 ‘미니멀 손그림’은 무게 없는 순수 선화나, 주제와 아무 관계가 없는 빈 캔버스로 쉽게 무너집니다.
@@ -44,26 +64,6 @@ XXD Panel 008는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **하나의 점프색:** 전체 화면에서 고순도 주황빨강, 마젠타, 청록 또는 밝은 노랑은 단 한 곳입니다.
 - **극도로 깨끗한 무광 3D:** 입자, 종이, 필름, 서리, 옛 인쇄, PBR, 강한 반사가 없는 매끈한 단색 기하입니다.
 - **작은 주석:** 가는 기하 문장 하나뿐이며 연도, 날짜, 번호, 권호, 큰 제목, 무단 영어 번역이 없습니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
-> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 008의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

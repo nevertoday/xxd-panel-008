@@ -22,6 +22,26 @@ XXD Panel 008 is an image-generation Skill for Codex and compatible agents. It t
 
 Height, path, connection, occlusion, isolation, and repetition carry the narrative through clean orthographic isometric space. Each work uses two to four luminous pastel main colours and one vivid jump point, finished as immaculate smooth matte 3D with one small geometric editorial line.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
+> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 008 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Poetic isometric space” easily collapses into arbitrary stairs, stock levels, and pastel architecture unrelated to the photograph.
@@ -44,26 +64,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **One colour jump:** the entire image has exactly one purer orange-red, magenta, blue-green, or bright-yellow point at a decisive place.
 - **Immaculate matte 3D:** smooth solid geometry, soft even light, and slight ambient shadow; no grain, paper, film, frost, old print, PBR, or harsh reflection.
 - **Small spatial annotation:** exactly one thin geometric line, with no year, date, number, volume, giant title, or silent English translation.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
-> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 008 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

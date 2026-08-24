@@ -22,6 +22,26 @@ XXD Panel 008 は、Codex と互換 Agent のための画像生成 Skill です�
 
 高低差、経路、接続、遮蔽、孤立、反復が物語を担い、正投影アイソメトリックが空間を明快で詩的にします。2〜4色の明るいパステルと一つだけの高純度アクセントを、極めて清潔で滑らかなマット 3D に仕上げます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
+> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 008 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 008 が必要なのか
 
 一般的な「ミニマル手描き」は、重さのない線画か、主体との関係を持たない空白キャンバスのどちらかへ崩れがちです。
@@ -44,26 +64,6 @@ XXD Panel 008 は、Codex と互換 Agent のための画像生成 Skill です�
 - **唯一の跳ね色：** 全画面で高純度の橙赤、マゼンタ、青緑、明黄は一箇所だけです。
 - **極上のマット 3D：** 粒子、紙、フィルム、霜、古印刷、PBR、強反射のない滑らかな純色幾何です。
 - **小さな注記：** 一句だけの細い幾何文字。年、日付、番号、巻号、大見出し、無断英訳はありません。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
-> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 008 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 008 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 008 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 008 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 008 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
