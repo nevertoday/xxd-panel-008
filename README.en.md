@@ -16,16 +16,7 @@
 
 </div>
 
-> ORTHOGRAPHIC ISOMETRIC · PLATFORMS / STAIRS / DOORS · SPATIAL PARADOX · DYNAMIC PASTELS · MATTE 3D
-
-XXD Panel 008 is an image-generation Skill for Codex and compatible agents. It translates the photograph's recognisable identity, silhouette, pose, and relation into platforms, stairs, doorways, arches, bridges, passages, floating structures, and impossible connections.
-
-Height, path, connection, occlusion, isolation, and repetition carry the narrative through clean orthographic isometric space. Each work uses two to four luminous pastel main colours and one vivid jump point, finished as immaculate smooth matte 3D with one small geometric editorial line.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
-> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Height, path, connection, occlusion, isolation, and repetition carry the narrati
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090016985883213883) · 2026-08-19<br>
+> GPT2 x 转绘 x 纪念碑谷 x 美学提示词 x VOL.008
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090016985883213883">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 008 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> ORTHOGRAPHIC ISOMETRIC · PLATFORMS / STAIRS / DOORS · SPATIAL PARADOX · DYNAMIC PASTELS · MATTE 3D
+
+XXD Panel 008 is an image-generation Skill for Codex and compatible agents. It translates the photograph's recognisable identity, silhouette, pose, and relation into platforms, stairs, doorways, arches, bridges, passages, floating structures, and impossible connections.
+
+Height, path, connection, occlusion, isolation, and repetition carry the narrative through clean orthographic isometric space. Each work uses two to four luminous pastel main colours and one vivid jump point, finished as immaculate smooth matte 3D with one small geometric editorial line.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 008 right for you?
