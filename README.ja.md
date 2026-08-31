@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 008
+# 🦁 XXD Panel 008｜パステルの幻境
 
 ### 写真を、明るく静かなパステルの不可能空間へ翻訳する
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 008
+# 🦁 XXD Panel 008｜Pastel Dreamscape
 
 ### Translate a real photograph into a bright, quiet, intelligent pastel impossible space
 

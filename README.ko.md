@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 008
+# 🦁 XXD Panel 008｜파스텔 몽환경
 
 ### 사진을 밝고 고요한 파스텔 불가능 공간으로 번역합니다
 
