@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 008｜Pastel Dreamscape: turns the subject and story of a photo into a bright, quiet, Monument Valley-like surreal 3D space — platforms, stairs, doorways, arches, passages and floating structures in orthographic isometric view, forming impossible spaces through height, paths, links and isolation — in its own pastel system (cream, sandstone, misty pink, coral, soft violet, sky blue, lake teal, mint; two to four per image plus one stronger accent) rather than the photo's colours, with clean, smooth, matte surfaces, soft light, no grain or paper texture, and only one small poetic line of text — never a big title, date or number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-008 or asks for Monument Valley-style pastel isometric architecture or impossible-space 3D illustration from a photo.",
+  "short_description": "粉彩幻境：把照片转成明亮安静、纪念碑谷式的粉彩等距不可能空间",
+  "zh-CN": {
+    "name": "粉彩幻境",
+    "tagline": "把照片里的人和故事，转成明亮、安静、像纪念碑谷一样的粉彩不可能空间。",
+    "look": "照片的核心被转成平台、台阶、门洞、拱桥、通道和悬浮结构，用正交等距视角搭出一个不可能的空间，靠高低差、路径、连接、遮挡和孤立来讲照片的情绪，仍能看出和原主体的对应。颜色不照搬照片，而用自己的粉彩系统：奶油白、浅砂岩、雾粉、珊瑚粉、柔紫、天空蓝、湖水青、薄荷绿里挑两到四个主色，再在门洞、人物或转折处点一处较纯的橙红、玫红、蓝绿或明黄。材质极干净、平滑、哑光，光线柔和均匀，没有颗粒、纸纹或旧印刷感。文字只有一句小小的诗性短句，安静地放在边缘或空白处，不出现大标题、年份、日期或编号。",
+    "traits": [
+      "正交等距",
+      "平台台阶",
+      "空间悖论",
+      "粉彩",
+      "极净 3D"
+    ],
+    "good": [
+      "有建筑感或路径感的照片：楼梯、拱门、长廊、灯塔、海边栈道",
+      "一个人或一只动物和空间的关系：站在高处的人、走向门口的猫",
+      "想要明亮梦幻、适合做壁纸或封面的照片"
+    ],
+    "poor": [
+      "需要保留照片原本配色的需求，这套风格会换成固定的粉彩系统",
+      "想要颗粒、纸感、做旧或手绘质感的效果",
+      "需要大标题、日期、编号或海报口号的设计"
+    ]
+  },
+  "en": {
+    "name": "Pastel Dreamscape",
+    "tagline": "Turns the people and story in a photo into a bright, quiet, Monument Valley-like pastel impossible space.",
+    "look": "The heart of the photo becomes platforms, stairs, doorways, arched bridges, passages and floating structures, assembled in orthographic isometric view into an impossible space that tells the photo's mood through changes of height, paths, links, overlaps and isolation, while still clearly echoing the original subject. Colour does not copy the photo: it uses its own pastel set, choosing two to four from cream, light sandstone, misty pink, coral, soft violet, sky blue, lake teal and mint, with one purer orange-red, rose, blue-green or yellow at a doorway, figure or corner. Surfaces are perfectly clean, smooth and matte under soft, even light, with no grain, paper texture or vintage print. The only text is one small poetic line placed quietly at an edge or in open space; there is no big title, year, date or number.",
+    "traits": [
+      "Orthographic isometric",
+      "Platforms and stairs",
+      "Spatial paradox",
+      "Pastel",
+      "Spotless 3D"
+    ],
+    "good": [
+      "Photos with architecture or a path: stairs, arches, long corridors, a lighthouse, a seaside boardwalk",
+      "A person or animal in relation to space: someone standing high up, a cat walking toward a door",
+      "Photos you want as a bright, dreamy wallpaper or cover"
+    ],
+    "poor": [
+      "Requests to keep the photo's own colours, which this style replaces with its pastel set",
+      "Requests for grain, paper texture, a vintage or hand-drawn look",
+      "Designs that need a big headline, a date, a number or a slogan"
+    ]
+  },
+  "ja": {
+    "name": "パステルの幻境",
+    "tagline": "写真の人や物語を、明るく静かな、モニュメントバレーのようなパステルの不可能空間にします。",
+    "look": "写真の核を、台、階段、戸口、アーチ橋、通路、浮かぶ構造に置き換え、正投影のアイソメトリックで不可能な空間を組み立てます。高低差、道筋、つながり、重なり、孤立で写真の気分を語りつつ、元の主役との対応ははっきり残します。色は写真をなぞらず、独自のパステル系から選びます。クリーム白、淡い砂岩、霧のピンク、コーラル、やわらかな紫、空色、湖の青緑、ミントから二〜四色を主に使い、戸口や人物、曲がり角に一か所だけ純度の高いオレンジレッド、ローズ、ブルーグリーン、黄を効かせます。質感はとても清潔でなめらかなマットで、光はやわらかく均一、粒子や紙の質感、古い印刷感はありません。文字は小さな詩的な一言だけで、端や余白に静かに置き、大きなタイトル、年号、日付、番号は入れません。",
+    "traits": [
+      "正投影アイソメ",
+      "台と階段",
+      "空間のパラドックス",
+      "パステル",
+      "清潔な 3D"
+    ],
+    "good": [
+      "建築や道筋を感じる写真：階段、アーチ、長い廊下、灯台、海辺の遊歩道",
+      "人や動物と空間の関係：高い場所に立つ人、戸口へ歩く猫",
+      "明るく夢のような壁紙や表紙にしたい写真"
+    ],
+    "poor": [
+      "写真本来の色を残したい場合（このスタイルは決まったパステル系に置き換えます）",
+      "粒子、紙の質感、古び、手描きの風合いを求める場合",
+      "大きなタイトル、日付、番号、キャッチコピーが必要なデザイン"
+    ]
+  },
+  "ko": {
+    "name": "파스텔 몽환경",
+    "tagline": "사진 속 사람과 이야기를 밝고 고요한, 모뉴먼트 밸리 같은 파스텔 불가능 공간으로 바꿉니다.",
+    "look": "사진의 핵심을 단, 계단, 문, 아치 다리, 통로, 떠 있는 구조물로 바꾸어 정투영 아이소메트릭 시점으로 불가능한 공간을 짓습니다. 높낮이, 길, 연결, 가림, 고립으로 사진의 감정을 말하면서도 원래 주인공과의 대응은 분명히 남깁니다. 색은 사진을 따르지 않고 고유의 파스텔 체계를 씁니다. 크림 화이트, 연한 사암, 안개 분홍, 코랄, 부드러운 보라, 하늘색, 호수 청록, 민트 중 두세 가지에서 네 가지를 주색으로 고르고, 문이나 인물, 꺾이는 곳 한 군데에만 채도 높은 주홍, 장미색, 청록, 노랑을 둡니다. 재질은 아주 깨끗하고 매끈한 무광이며 빛은 부드럽고 고르며, 입자나 종이 질감, 낡은 인쇄 느낌은 없습니다. 글자는 작은 시적인 한 줄뿐이고 가장자리나 빈 곳에 조용히 놓이며, 큰 제목, 연도, 날짜, 번호는 넣지 않습니다.",
+    "traits": [
+      "정투영 아이소메트릭",
+      "단과 계단",
+      "공간의 역설",
+      "파스텔",
+      "깨끗한 3D"
+    ],
+    "good": [
+      "건축이나 길이 느껴지는 사진: 계단, 아치, 긴 복도, 등대, 바닷가 산책로",
+      "사람이나 동물과 공간의 관계: 높은 곳에 선 사람, 문 쪽으로 걸어가는 고양이",
+      "밝고 몽환적인 배경화면이나 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사진 고유의 색을 살리고 싶은 경우(이 스타일은 정해진 파스텔 체계로 바꿉니다)",
+      "입자, 종이 질감, 낡은 느낌, 손그림 느낌을 원하는 경우",
+      "큰 제목, 날짜, 번호, 슬로건이 필요한 디자인"
+    ]
+  },
+  "ar": {
+    "name": "أرض الأحلام الباستيلية",
+    "tagline": "يحوّل أشخاص الصورة وحكايتها إلى فضاء مستحيل بألوان الباستيل، مشرق وهادئ على طريقة Monument Valley.",
+    "look": "يتحول جوهر الصورة إلى منصّات ودرجات ومداخل وجسور مقوّسة وممرات وهياكل معلّقة، تُركَّب بمنظور متساوي القياس متعامد في فضاء مستحيل يروي مزاج الصورة عبر فروق الارتفاع والمسارات والوصلات والتداخل والعزلة، مع بقاء الصلة واضحة بالعنصر الأصلي. لا تنقل الألوان ألوان الصورة، بل تعتمد مجموعة باستيل خاصة: من اثنين إلى أربعة من الأبيض الكريمي والحجر الرملي الفاتح والوردي الضبابي والمرجاني والبنفسجي الناعم والأزرق السماوي وفيروزي البحيرة والنعناعي، مع لمسة واحدة أنقى من البرتقالي المحمر أو الوردي الغامق أو الأزرق المخضر أو الأصفر عند مدخل أو شخص أو منعطف. الأسطح نظيفة تماماً وملساء ومطفأة تحت ضوء ناعم متساوٍ، بلا حبيبات ولا ملمس ورق ولا طباعة قديمة. النص الوحيد جملة شعرية صغيرة توضع بهدوء عند الحافة أو في الفراغ، بلا عنوان كبير ولا سنة ولا تاريخ ولا رقم.",
+    "traits": [
+      "منظور متساوي القياس",
+      "منصّات ودرجات",
+      "مفارقة مكانية",
+      "باستيل",
+      "ثلاثي أبعاد نظيف"
+    ],
+    "good": [
+      "صور فيها عمارة أو مسار: درج، أقواس، ممرات طويلة، منارة، ممشى على البحر",
+      "علاقة شخص أو حيوان بالمكان: شخص يقف في مكان مرتفع، قطة تمشي نحو باب",
+      "صور تريدها خلفية أو غلافاً مشرقاً حالماً"
+    ],
+    "poor": [
+      "الرغبة في الإبقاء على ألوان الصورة نفسها، فهذا الأسلوب يستبدلها بمجموعة الباستيل الخاصة به",
+      "طلب حبيبات أو ملمس ورق أو مظهر قديم أو مرسوم باليد",
+      "تصاميم تحتاج إلى عنوان كبير أو تاريخ أو رقم أو شعار"
+    ]
+  }
+}
